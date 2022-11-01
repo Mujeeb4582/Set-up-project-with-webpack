@@ -2,7 +2,7 @@
   "name": "set-up-project-with-webpack",
   "version": "1.0.0",
   "description": "This is the basic project to understand how can use webpack in your project.",
-  "main": "index.js",
+  "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
